@@ -1,0 +1,12 @@
+{
+  "name": "test-leak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-circus": "^24.9.0"
+  },
+  "dependencies": {
+  }
+}

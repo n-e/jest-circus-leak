@@ -1,0 +1,1 @@
+seq 1 1000|while read i; do cp src/__tests__/test.test.js src/__tests__/test.$i.test.js;done
